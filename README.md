@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, my name is Károly
+I am a computer science student at ELTE Faculty of Informatics.
 
 <!--
 **tothKarolyDavid/tothKarolyDavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
