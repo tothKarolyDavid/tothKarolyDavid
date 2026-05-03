@@ -8,13 +8,13 @@ GitHub profile README at `tothKarolyDavid/tothKarolyDavid`. Single file: `README
 
 ## Style direction
 
-**Professional & Clean with a Synthwave Edge.** Custom SVG banner header, custom 2-col project cards, `tokyonight` theme for stats, focused socials.
+**Professional & Clean with a Spider-Verse/Synthwave Edge.** Dynamic Vercel banner header, custom 2-col project cards, `tokyonight` theme for stats, focused socials.
 
 Brand colors: Primary `#421a8d` (Deep Purple), Accents `#ff00ff` (Magenta) & `#00ffff` (Cyan). Card label background: `#1a1b27`.
 
 ## Structure (top-to-bottom)
 
-1. **Banner** — Custom `banner.svg` (local file). Synthwave perspective grid + retro sun.
+1. **Banner** — Animated waving header SVG from `capsule-render.vercel.app` with Spider-Verse gradient.
 2. **Social chips** — LinkedIn (shields.io `for-the-badge`)
 3. **whoami** — Professional summary and focus areas
 4. **whathaveibuilt** — 6 featured projects in 3×2 HTML table
@@ -37,7 +37,7 @@ Wrap pairs of cells in `<table><tr><td width="50%" valign="top">…</td><td widt
 Replace one `<td>` block in the `whathaveibuilt` table. Keep 2-col 3-row grid (6 total). Use brand colors for language badges (.NET: `512bd4`, Laravel: `ff2d20`, Python: `3776ab`).
 
 ### Change tagline / banner text
-Edit the `<text>` tags inside `banner.svg`. Use a text editor.
+Edit URL fragment after `text=` in the `capsule-render` `<img>`. URL-encode spaces as `%20`. Verify URL returns 200 before committing.
 
 ### Change theme
 Search-replace `tokyonight` → other supported theme name (e.g. `radical`). Verify compatibility with `github-profile-summary-cards` (accepts `tokyonight`, rejects `tokyo_night`).
@@ -46,6 +46,7 @@ Search-replace `tokyonight` → other supported theme name (e.g. `radical`). Ver
 
 | Service | Purpose | Notes |
 |---|---|---|
+| `capsule-render.vercel.app` | Header banner SVG | Params: type, color, text, animation |
 | `img.shields.io` | All badges | `for-the-badge` for chips, `flat` for cards |
 | `github-profile-summary-cards.vercel.app` | 4 stats cards | Theme `tokyonight` (no underscore) |
 

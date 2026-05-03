@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:421a8d,50:ff00ff,100:00ffff&height=150&section=header&text=Károly%20Dávid%20Tóth&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="banner" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karoly-david-toth/)
 </div>
