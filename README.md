@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://gitbanner.saviru.me/api/banner?name=Károly%20Dávid%20Tóth&desc=Software%20Engineer%20|%20.NET%20Specialist&theme=dark&glitch=true" alt="banner" />
+<img src="./banner.svg" alt="banner" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karoly-david-toth/)
 </div>

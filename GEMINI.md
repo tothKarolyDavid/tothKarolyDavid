@@ -8,13 +8,13 @@ GitHub profile README at `tothKarolyDavid/tothKarolyDavid`. Single file: `README
 
 ## Style direction
 
-**Professional & Clean with a Synthwave/Hacker Edge.** Animated terminal glitch banner header, custom 2-col project cards, `tokyonight` theme for stats, focused socials.
+**Professional & Clean with a Synthwave Edge.** Custom SVG banner header, custom 2-col project cards, `tokyonight` theme for stats, focused socials.
 
 Brand colors: Primary `#421a8d` (Deep Purple), Accents `#ff00ff` (Magenta) & `#00ffff` (Cyan). Card label background: `#1a1b27`.
 
 ## Structure (top-to-bottom)
 
-1. **Banner** — Animated terminal glitch header from `gitbanner.saviru.me`.
+1. **Banner** — Custom `banner.svg` (local file). Synthwave perspective grid + retro sun.
 2. **Social chips** — LinkedIn (shields.io `for-the-badge`)
 3. **whoami** — Professional summary and focus areas
 4. **whathaveibuilt** — 6 featured projects in 3×2 HTML table
@@ -36,8 +36,8 @@ Wrap pairs of cells in `<table><tr><td width="50%" valign="top">…</td><td widt
 ### Add / swap a featured project
 Replace one `<td>` block in the `whathaveibuilt` table. Keep 2-col 3-row grid (6 total). Use brand colors for language badges (.NET: `512bd4`, Laravel: `ff2d20`, Python: `3776ab`).
 
-### Change tagline / banner desc
-Edit URL fragment after `desc=` in the `gitbanner` `<img>`. URL-encode spaces as `%20`, pipes/dots left as-is. Verify URL returns 200 before committing.
+### Change tagline / banner text
+Edit the `<text>` tags inside `banner.svg`. Use a text editor.
 
 ### Change theme
 Search-replace `tokyonight` → other supported theme name (e.g. `radical`). Verify compatibility with `github-profile-summary-cards` (accepts `tokyonight`, rejects `tokyo_night`).
@@ -46,7 +46,6 @@ Search-replace `tokyonight` → other supported theme name (e.g. `radical`). Ver
 
 | Service | Purpose | Notes |
 |---|---|---|
-| `gitbanner.saviru.me` | Terminal glitch banner | Params: name, desc, theme, glitch |
 | `img.shields.io` | All badges | `for-the-badge` for chips, `flat` for cards |
 | `github-profile-summary-cards.vercel.app` | 4 stats cards | Theme `tokyonight` (no underscore) |
 
