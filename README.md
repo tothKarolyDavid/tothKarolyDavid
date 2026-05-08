@@ -78,11 +78,24 @@ Framework-less **PHP** parcel tracking API. Native PDO, automated DB init, and P
 
 <div align="center">
 
-| Area | Technologies |
-| :--- | :--- |
-| **Languages** | C#, PHP, Python, JavaScript, SQL, HTML/CSS |
-| **Frameworks** | .NET, ASP.NET Core, .NET MAUI, Blazor Hybrid, Laravel |
-| **Data & ORM** | EF Core, PostgreSQL, SQLite, MySQL, Eloquent |
+| Area               | Technologies                                                    |
+| :----------------- | :-------------------------------------------------------------- |
+| **Languages**      | C#, PHP, Python, JavaScript, SQL, HTML/CSS                      |
+| **Frameworks**     | .NET, ASP.NET Core, .NET MAUI, Blazor Hybrid, Laravel           |
+| **Data & ORM**     | EF Core, PostgreSQL, SQLite, MySQL, Eloquent                    |
 | **DevOps & Tools** | Docker, .NET Aspire, GitHub Actions, Playwright, Testcontainers |
+
+</div>
+
+---
+
+### mystats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tothKarolyDavid&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tothKarolyDavid&theme=tokyonight&utcOffset=2" alt="Productive Time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tothKarolyDavid&theme=tokyonight" alt="Repos Per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tothKarolyDavid&theme=tokyonight" alt="Most Commit Language" />
 
 </div>
