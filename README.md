@@ -93,9 +93,9 @@ Framework-less **PHP** parcel tracking API. Native PDO, automated DB init, and P
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tothKarolyDavid&theme=tokyonight" alt="GitHub Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tothKarolyDavid&theme=tokyonight&utcOffset=2" alt="Productive Time" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tothKarolyDavid&theme=tokyonight" alt="Repos Per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tothKarolyDavid&theme=tokyonight" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tothKarolyDavid&theme=midnight_purple" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tothKarolyDavid&theme=midnight_purple&utcOffset=2" alt="Productive Time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tothKarolyDavid&theme=midnight_purple" alt="Repos Per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tothKarolyDavid&theme=midnight_purple" alt="Most Commit Language" />
 
 </div>
