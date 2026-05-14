@@ -13,7 +13,7 @@ Technical specification and maintenance manifest for the profile `README.md`.
 | Section | Content Description | Implementation |
 | :--- | :--- | :--- |
 | **Banner** | Animated waving header with name. | `capsule-render.vercel.app` (SVG) |
-| **Socials** | LinkedIn badge. | `img.shields.io` (for-the-badge) |
+| **Socials** | LinkedIn badge. | `shields.io` (for-the-badge) |
 | **whoami** | Professional summary and tech focus. | Plain Markdown |
 | **whathaveibuilt** | 6 featured projects in a 3×2 grid. | HTML `<table>` with custom labels |
 | **whatdoiusetobuild** | Skill matrix by area. | Markdown Table |
@@ -23,8 +23,8 @@ Technical specification and maintenance manifest for the profile `README.md`.
 
 This profile utilizes the following tools and services:
 
-1.  **[capsule-render](https://github.com/kyechan9k/capsule-render)**: Dynamic SVG header generation.
-2.  **[Shields.io](https://shields.io/)**: Badge generation for socials and project labels.
+1.  **[capsule-render](https://github.com/kyechan99/capsule-render)**: Dynamic SVG header generation.
+2.  **[Shields.io](https://github.com/badges/shields)**: Badge generation for socials and project labels.
 3.  **[github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)**: Visualizing GitHub stats and activity.
 
 ## Maintenance Guidelines
