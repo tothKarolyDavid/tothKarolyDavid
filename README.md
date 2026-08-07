@@ -20,17 +20,17 @@ Aspiring **Software Engineer** specializing in the **.NET** ecosystem. Passionat
 <td width="50%" valign="top">
 
 ### [Habitinator](https://github.com/tothKarolyDavid/Habitinator)
-Full-stack **.NET** productivity ecosystem. Blazor Web & **.NET MAUI Hybrid**. Local-first SQLite sync, **.NET Aspire** orchestration.
+Full-stack **.NET 10** productivity ecosystem. **Blazor Web** & **MAUI Hybrid** with local-first SQLite sync, idempotency-backed **REST APIs**, **.NET Aspire** orchestration, and E2E tests via Playwright and Testcontainers.
 
-![lang](https://img.shields.io/badge/C%23-.NET-512bd4?style=flat&labelColor=1a1b27) ![sync](https://img.shields.io/badge/Local--First-Offline-green?style=flat&labelColor=1a1b27)
+![lang](https://img.shields.io/badge/C%23-.NET-512bd4?style=flat&labelColor=1a1b27) ![sync](https://img.shields.io/badge/Local--First-Offline-green?style=flat&labelColor=1a1b27) ![test](https://img.shields.io/badge/E2E-Playwright-2ead33?style=flat&labelColor=1a1b27)
 
 </td>
 <td width="50%" valign="top">
 
 ### [Physiquinator](https://github.com/tothKarolyDavid/Physiquinator)
-Cross-platform fitness app. **.NET MAUI** + **Blazor Hybrid**. SQLite storage, intelligent timers, and real-time tracking.
+Cross-platform **workout tracker** in **.NET MAUI** + **Blazor Hybrid**. Smart rest timer with **Android floating overlay**, **AI training assistant**, history analytics, and an **MCP server** for AI agents.
 
-![lang](https://img.shields.io/badge/C%23-.NET-512bd4?style=flat&labelColor=1a1b27) ![platform](https://img.shields.io/badge/MAUI-Hybrid-blue?style=flat&labelColor=1a1b27)
+![lang](https://img.shields.io/badge/C%23-.NET-512bd4?style=flat&labelColor=1a1b27) ![platform](https://img.shields.io/badge/MAUI-Hybrid-blue?style=flat&labelColor=1a1b27) ![ai](https://img.shields.io/badge/AI-MCP-9b59b6?style=flat&labelColor=1a1b27)
 
 </td>
 </tr>
@@ -38,35 +38,17 @@ Cross-platform fitness app. **.NET MAUI** + **Blazor Hybrid**. SQLite storage, i
 <td width="50%" valign="top">
 
 ### [TVBooking-ASP-MVC](https://github.com/tothKarolyDavid/TVBooking-ASP-MVC)
-Hotel TV booking system. **ASP.NET MVC** with **RBAC**. Selenium & xUnit testing suite, XML data exports.
+Hotel TV booking system in **ASP.NET MVC** with Admin/Guest **RBAC**, XML exports, and a comprehensive **Selenium** + **xUnit** testing suite.
 
 ![lang](https://img.shields.io/badge/C%23-ASP.NET-512bd4?style=flat&labelColor=1a1b27) ![test](https://img.shields.io/badge/Tests-Selenium-yellow?style=flat&labelColor=1a1b27)
 
 </td>
 <td width="50%" valign="top">
 
-### [szerveroldali-laravel](https://github.com/tothKarolyDavid/szerveroldali-laravel)
-Full-stack **Laravel** football league manager. MVC, Eloquent ORM, secure auth, and dynamic Blade rendering.
+### [bt-keepalive](https://github.com/tothKarolyDavid/bt-keepalive)
+**Windows** system tray app that keeps **Bluetooth** headphones connected with white/pink/brown/blue/violet noise, **40 Hz binaural beats**, or a quiet pulse keepalive.
 
-![lang](https://img.shields.io/badge/PHP-Laravel-ff2d20?style=flat&labelColor=1a1b27) ![db](https://img.shields.io/badge/Eloquent-ORM-orange?style=flat&labelColor=1a1b27)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [php-api](https://github.com/tothKarolyDavid/php-api)
-Framework-less **PHP** parcel tracking API. Native PDO, automated DB init, and Postman documentation.
-
-![lang](https://img.shields.io/badge/PHP-Native-777bb4?style=flat&labelColor=1a1b27) ![api](https://img.shields.io/badge/REST-API-lightgrey?style=flat&labelColor=1a1b27)
-
-</td>
-<td width="50%" valign="top">
-
-### [starbucks-data-analysis](https://github.com/tothKarolyDavid/starbucks-data-analysis)
-**Python**-based nutritional analysis. Pandas/Seaborn for data cleaning, outlier filtering, and visualizations.
-
-![lang](https://img.shields.io/badge/Python-Data_Science-3776ab?style=flat&labelColor=1a1b27) ![tool](https://img.shields.io/badge/Pandas-Seaborn-blueviolet?style=flat&labelColor=1a1b27)
+![lang](https://img.shields.io/badge/Python-Tray_App-3776ab?style=flat&labelColor=1a1b27) ![bt](https://img.shields.io/badge/Bluetooth-Keepalive-blue?style=flat&labelColor=1a1b27)
 
 </td>
 </tr>
