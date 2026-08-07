@@ -85,15 +85,5 @@ Hotel TV booking system in **ASP.NET MVC** with Admin/Guest **RBAC**, XML export
 	<source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tothKarolyDavid&theme=buefy&utcOffset=2" />
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tothKarolyDavid&theme=midnight_purple&utcOffset=2" alt="Productive Time" />
 </picture>
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tothKarolyDavid&theme=midnight_purple" />
-	<source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tothKarolyDavid&theme=buefy" />
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tothKarolyDavid&theme=midnight_purple" alt="Repos Per Language" />
-</picture>
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tothKarolyDavid&theme=midnight_purple" />
-	<source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tothKarolyDavid&theme=buefy" />
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tothKarolyDavid&theme=midnight_purple" alt="Most Commit Language" />
-</picture>
 
 </div>
