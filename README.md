@@ -1,10 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3d1c9f&height=150&section=header&text=Károly%20Dávid%20Tóth&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="banner" />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karoly-david-toth/)
-</div>
-
 ---
 
 ### whoami
@@ -52,6 +47,24 @@ Hotel TV booking system in **ASP.NET MVC** with Admin/Guest **RBAC**, XML export
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Dietinator](https://github.com/tothKarolyDavid/Dietinator)
+Fast **offline-first** calorie tracker for **Android**, **iOS**, and **web**. SQLite diary, **YAZIO** food search, barcode scanning, reusable meals, weight tracking, and an optional **AI assistant**.
+
+![lang](https://img.shields.io/badge/React_Native-Expo-61dafb?style=flat&labelColor=1a1b27) ![sync](https://img.shields.io/badge/SQLite-Offline--First-green?style=flat&labelColor=1a1b27)
+
+</td>
+<td width="50%" valign="top">
+
+### [szerveroldali-laravel](https://github.com/tothKarolyDavid/szerveroldali-laravel)
+Full-stack **Laravel** football league manager. MVC architecture, **Eloquent ORM**, secure authentication, and dynamic **Blade** rendering.
+
+![lang](https://img.shields.io/badge/PHP-Laravel-ff2d20?style=flat&labelColor=1a1b27) ![db](https://img.shields.io/badge/Eloquent-ORM-orange?style=flat&labelColor=1a1b27)
+
+</td>
+</tr>
 </table>
 
 ---
@@ -70,20 +83,5 @@ Hotel TV booking system in **ASP.NET MVC** with Admin/Guest **RBAC**, XML export
 </div>
 
 ---
-
-### mystats
-
-<div align="center">
-
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tothKarolyDavid&theme=midnight_purple" />
-	<source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tothKarolyDavid&theme=buefy" />
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tothKarolyDavid&theme=midnight_purple" alt="GitHub Stats" />
-</picture>
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tothKarolyDavid&theme=midnight_purple&utcOffset=2" />
-	<source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tothKarolyDavid&theme=buefy&utcOffset=2" />
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tothKarolyDavid&theme=midnight_purple&utcOffset=2" alt="Productive Time" />
-</picture>
 
 </div>
